@@ -49,6 +49,6 @@ This project focuses on detecting fraudulent transactions in a simulated credit 
   - Accuracy: **82.81%**  
   - AUC: **78.97%**  
   - F1 Score: **43.99%**
-- ROC curves were plotted to visualize model performance, saved as `roc_curve.eps`.
+- ROC curves were plotted to visualize model performance.
 
 ---
